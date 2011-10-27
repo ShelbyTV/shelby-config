@@ -1,4 +1,5 @@
-{
+module.exports = {
+
   "production" : {
 
   },
@@ -6,4 +7,5 @@
   "development" : {
 
   }
+
 }
