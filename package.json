@@ -2,5 +2,5 @@
     "name": "shelby-config"
   , "version": "0.0.1"
   , "private": true
-  , "main": "./config.json"
+  , "main": "./index.js"
 }
