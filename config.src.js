@@ -1,7 +1,7 @@
 module.exports = {
   "production" : {
     "beanstalk" : {
-      "uri" : '10.180.173.25',
+      "uri" : '10.181.132.217',
       "port" : "11300",
       "tubes" :{
         "link_processing" : "link_processing",
